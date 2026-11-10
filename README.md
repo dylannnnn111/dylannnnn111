@@ -23,10 +23,10 @@ Write-ups with charts at [dylanlewis.au/projects](https://dylanlewis.au/projects
 ## Latest on dylanlewis.au
 
 <!-- LATEST:START -->
+- [Metro Effect](https://dylanlewis.au/projects/metro-effect) - Did the Sydney Metro City & Southwest change how people travel? Difference-in-differences, an event study, synthetic control and placebo dates on Opal tap data.
 - [Agent Cursor](https://dylanlewis.au/projects/agent-cursor) - A VS Code extension that shows where your coding agents are working, live: a marker on the line each one is on, edits that glow as they land, and a sidebar where every agent has its own look.
 - [Who Judges the Judge](https://dylanlewis.au/projects/judge-reliability) - How far can you trust a model to mark other models? 120 hand-labelled pairs, three Claude judges, three prompt formats and 4,200 judge calls, measuring agreement plus position, length and self-preference bias.
 - [Tiny Agent](https://dylanlewis.au/projects/tiny-agent) - A coding agent in about 300 lines of TypeScript with nothing hidden, then an ablation: a switch on every part of the harness, 40 tasks with hidden tests, and what each part turns out to be worth.
-- [Gradient](https://dylanlewis.au/projects/gradient) - Backpropagation written from scratch in TypeScript, with a neural network you can watch learn in the browser.
 <!-- LATEST:END -->
 
 ## What I use
